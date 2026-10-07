@@ -10,9 +10,15 @@
 
 | 파일 | 내용 |
 |---|---|
-| `index.html` | 화면 전체 (스타일·스크립트·표제 글꼴 포함) |
+| `index.html` | 화면 전체 (스타일·스크립트·글꼴, 만든 사람의 편지 포함) |
+| `founder.jpg` | 만든 사람의 편지에 함께 나오는 사진 |
 | `config.js` | 서버 주소 설정 |
 | `manifest.webmanifest`, `icon-*.png`, `apple-touch-icon.png`, `favicon.png` | 홈 화면 아이콘 |
 | `og.png` | 링크 미리보기 이미지 |
 
-표제 글꼴은 [Hahmlet](https://fonts.google.com/specimen/Hahmlet) (SIL Open Font License)의 일부 글자만 담아 사용합니다.
+## 글꼴
+
+필요한 글자만 담아 `index.html` 안에 넣었습니다.
+
+- 표제: [Hahmlet](https://fonts.google.com/specimen/Hahmlet) — SIL Open Font License 1.1
+- 서명(by jaehyun hada): [Satisfy](https://fonts.google.com/specimen/Satisfy) — Apache License 2.0
